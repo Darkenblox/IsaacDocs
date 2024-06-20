@@ -24,5 +24,5 @@ Old tutorial: [https://www.reddit.com/r/themoddingofisaac/comments/3ebqat/all_ab
 |loop|bool|Whether or not the main track should loop indefinitely.|
 |layermode|int||
 |layerfadespeed|float||
-|mul|float||
-|layermul|float||
+|mul|float||Controls the volume of the track|
+|layermul|float||Controls the volume of the track's layer|
